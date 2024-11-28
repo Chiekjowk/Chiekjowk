@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiekjowk
 - 👀 I’m interested in web development and design 
-- 🌱 I’m currently learning html and css 
+- 🌱 I’m currently learning React  
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
